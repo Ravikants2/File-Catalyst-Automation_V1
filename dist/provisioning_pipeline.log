@@ -1,0 +1,34 @@
+[2026-10-04 12:44:55] System initialized. Executable Folder: 'C:\Users\RaviKant Singh\Desktop\python\FC\dist'
+[2026-10-04 12:44:55] Automatic audit logging engaged: 'C:\Users\RaviKant Singh\Desktop\python\FC\dist\provisioning_pipeline.log'
+[2026-10-04 12:45:15] Excel File Loaded: C:/Users/RaviKant Singh/Desktop/python/FC/FileCatalyst_Site_Configuration_Template.xlsx
+[2026-10-04 12:45:19] SUCCESS: Fetched details for TC Code '8320' (Center: iON Digital Zone iDZ  Perecherla, Status: Active).
+[2026-10-04 12:45:20] === Initiating Execution Pipeline for TC Code: 8320 ===
+[2026-10-04 12:45:20] Initializing Chrome WebDriver service...
+[2026-10-04 12:45:20] Launching Chrome browser...
+[2026-10-04 12:45:23] Chrome launched successfully.
+[2026-10-04 12:45:23] Step 1/2: Creating Site Profile...
+[2026-10-04 12:45:29] SSL Target State: True | Current State: False
+[2026-10-04 12:45:29] Successfully updated SSL checkbox state to: True
+[2026-10-04 12:45:31] Clicked confirmation 'Save anyway' button on warning dialog.
+[2026-10-04 12:45:33] Step 1/2 Completed: Site Profile configured successfully.
+[2026-10-04 12:45:33] Step 2/2: Provisioning HotFolders...
+[2026-10-04 12:45:41] Step 2/2 Completed: HotFolders provisioned successfully.
+[2026-10-04 12:45:41] === Pipeline Successfully Completed for TC Code 8320 ===
+[2026-10-04 12:45:45] Chrome session closed.
+[2026-10-04 12:47:08] System initialized. Executable Folder: 'C:\Users\RaviKant Singh\Desktop\python\FC\dist'
+[2026-10-04 12:47:08] Automatic audit logging engaged: 'C:\Users\RaviKant Singh\Desktop\python\FC\dist\provisioning_pipeline.log'
+[2026-10-04 12:47:21] Excel File Loaded: C:/Users/RaviKant Singh/Desktop/python/FC/FileCatalyst_Site_Configuration_Template.xlsx
+[2026-10-04 12:47:29] SUCCESS: Fetched details for TC Code '8320' (Center: iON Digital Zone iDZ  Perecherla, Status: Active).
+[2026-10-04 12:47:40] === Initiating Execution Pipeline for TC Code: 8320 ===
+[2026-10-04 12:47:40] Initializing Chrome WebDriver service...
+[2026-10-04 12:47:40] Launching Chrome browser...
+[2026-10-04 12:47:41] Chrome launched successfully.
+[2026-10-04 12:47:41] Step 1/2: Creating Site Profile...
+[2026-10-04 12:47:49] SSL Target State: True | Current State: False
+[2026-10-04 12:47:49] Successfully updated SSL checkbox state to: True
+[2026-10-04 12:47:51] Clicked confirmation 'Save anyway' button on warning dialog.
+[2026-10-04 12:47:52] Step 1/2 Completed: Site Profile configured successfully.
+[2026-10-04 12:47:52] Step 2/2: Provisioning HotFolders...
+[2026-10-04 12:48:00] Step 2/2 Completed: HotFolders provisioned successfully.
+[2026-10-04 12:48:00] === Pipeline Successfully Completed for TC Code 8320 ===
+[2026-10-04 12:48:04] Chrome session closed.
